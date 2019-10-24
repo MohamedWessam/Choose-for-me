@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اختر لي</string>
+    <string name="enter_choices">أدخل الخيارات وافصل بينهم بنقطة (.)</string>
+    <string name="clear">حذف</string>
+    <string name="help">مساعدة</string>
+    <string name="ok">حسناً</string>
+    <string name="help_text">يساعدك التطبيق على اختيار عنصر <b>عشوائياً</b>.\nإذا كنت لا تستطيع الاختيار أدخل الخيارات مفصول بينها بنقطة ثم اضغط على زر اختر لي.</string>
+    <string name="choose_for_you"><i>اخترت لك..</i></string>
+    <string name="empty">أدخل الخيارات أولاً</string>
+    <string name="no_dot">تأكد من إدخال أكثر من خيار واحد مفصول بينهم بنقطة</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Choose For Me</string>
+    <string name="enter_choices">Enter choices separated by a dot (.)</string>
+    <string name="clear">Clear</string>
+    <string name="help">help</string>
+    <string name="ok">OK</string>
+    <string name="help_text">Choose for me helps you to choose between some stuff <b>randomly</b>. If you are confused and can\'t choose by yourself, let the App chooses for you, Enter your choices separated by a dot then press choose for me</string>
+    <string name="choose_for_you"><i>I choose for you..</i></string>
+    <string name="empty">Enter your choices first</string>
+    <string name="no_dot">Make sure you entered more than one choice and separate them by a dot</string>
+</resources>
